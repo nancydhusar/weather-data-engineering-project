@@ -1,0 +1,4 @@
+city,temperature,humidity,wind_speed,weather,timestamp
+Hannover,16.37,87,4.35,Clouds,2026-06-04 02:18:04.298306
+Hannover,16.37,87,4.35,Clouds,2026-06-04 02:19:16.669047
+Hannover,16.39,86,4.35,Clouds,2026-06-04 02:22:22.259374
